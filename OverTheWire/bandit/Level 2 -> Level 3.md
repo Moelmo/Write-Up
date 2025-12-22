@@ -186,7 +186,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Jawaban (Password)
 
-```text
+```
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
 

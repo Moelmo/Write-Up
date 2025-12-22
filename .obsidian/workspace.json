@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OverTheWire/bandit/Level 5 -> Level 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Level 5 -> Level 6"
             }
           }
         ]
@@ -184,15 +184,20 @@
   },
   "active": "2bc4c81b7fdf96c7",
   "lastOpenFiles": [
-    "OverTheWire/bandit/Level 2 -> Level 3.md",
+    "OverTheWire/bandit/Level 10 -> Level 11.md",
+    "OverTheWire/bandit/Level 9 -> Level 10.md",
+    "OverTheWire/bandit/Level 8 -> Level 9.md",
+    "OverTheWire/bandit/Level 7 -> Level 8.md",
+    "OverTheWire/bandit/Level 6 -> Level 7.md",
+    "OverTheWire/bandit/Level 5 -> Level 6.md",
     "README.md",
-    "READNE.nd",
+    "OverTheWire/bandit/Level 4 -> Level 5.md",
+    "OverTheWire/bandit/Level 3 -> Level 4.md",
+    "OverTheWire/bandit/Level 2 -> Level 3.md",
     "OverTheWire/bandit/Level 1 ->  Level 2.md",
     "OverTheWire/bandit/Level 0 -> Level 1.md",
-    "OverTheWire/bandit/Level 3 -> Level 4.md",
+    "READNE.nd",
     "OverTheWire/bandit/Level 0.md",
-    "OverTheWire/bandit/Level 5 -> Level 6.md",
-    "OverTheWire/bandit/Level 4 -> Level 5.md",
     "level2.md",
     "OverTheWire/bandit/level 1 -> level 2.canvas",
     "OverTheWire/bandit/level.md",

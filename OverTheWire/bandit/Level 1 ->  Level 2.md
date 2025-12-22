@@ -187,7 +187,7 @@ bandit1@bandit:~$ cat ./-
 
 ## Jawaban (Password)
 
-```text
+```
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
 

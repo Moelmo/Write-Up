@@ -150,7 +150,7 @@ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Jawaban (Password)
 
-```text
+```
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 Note : password ini akan di pakai di level berikut nya

@@ -25,10 +25,10 @@ Selamat datang di repository **Write-Up CTF** saya! Repo ini berfungsi sebagai j
 
 ## 📅 Timeline & Arsip
 
-| Tahun | Event / Platform | Link Write-Up | Status |
-| :--- | :--- | :--- | :--- |
+| Tahun    | Event / Platform         | Link Write-Up                             | Status         |
+| :------- | :----------------------- | :---------------------------------------- | :------------- |
 | **2025** | OverTheWire – **Bandit** | [📂 Lihat Write-Up](./OverTheWire/bandit) | 🟢 In Progress |
-| **2025** | *(Coming Soon)* | - | ⚪ Planned |
+| **2025** | *(Coming Soon)*          | -                                         | ⚪ Planned      |
 
 > *Daftar ini akan terus diperbarui seiring berjalannya waktu.*
 
@@ -38,12 +38,12 @@ Selamat datang di repository **Write-Up CTF** saya! Repo ini berfungsi sebagai j
 
 Berikut adalah lingkungan kerja dan perangkat lunak yang saya gunakan:
 
-| Kategori | Tools |
-| :--- | :--- |
-| **Sistem Operasi** | Kali Linux |
-| **Text Editor** | Obsidian, VS Code |
-| **CLI Tools** | SSH, Git, Nmap, Burp Suite |
-| **Version Control** | Git & GitHub |
+| Kategori            | Tools             |
+| :------------------ | :---------------- |
+| **Sistem Operasi**  | Kali Linux        |
+| **Text Editor**     | Obsidian, VS Code |
+| **CLI Tools**       | SSH, Git          |
+| **Version Control** | Git & GitHub      |
 
 ## ⚠️ Disclaimer
 
