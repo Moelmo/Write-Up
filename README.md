@@ -67,8 +67,8 @@ Berikut adalah lingkungan kerja dan perangkat lunak yang saya gunakan:
 
 Mari berdiskusi dan bertukar ilmu!
 
-- <img src="" alt="Instagram"/> [@moelmo.57](https://www.instagram.com/moelmo.57) 
-- <img src="" alt="Discord"/> [moelmo57](https://discord.com/users/moelmo57)  
+- Instagram [@moelmo.57](https://www.instagram.com/moelmo.57) 
+- Discord [moelmo57](https://discord.com/users/moelmo57)  
 
 
 ---
