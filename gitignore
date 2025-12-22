@@ -1,0 +1,8 @@
+# Obsidian settings
+.obsidian/
+
+# Semua file/folder tersembunyi (opsional)
+.*
+
+# Kecuali .gitignore sendiri
+!.gitignore
